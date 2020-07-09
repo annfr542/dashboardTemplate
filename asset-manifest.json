@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dashboardTemplate/static/css/main.01b61fb4.chunk.css",
+    "main.js": "/dashboardTemplate/static/js/main.a1a67e8f.chunk.js",
+    "main.js.map": "/dashboardTemplate/static/js/main.a1a67e8f.chunk.js.map",
+    "runtime-main.js": "/dashboardTemplate/static/js/runtime-main.51ef6295.js",
+    "runtime-main.js.map": "/dashboardTemplate/static/js/runtime-main.51ef6295.js.map",
+    "static/css/2.cac4bd09.chunk.css": "/dashboardTemplate/static/css/2.cac4bd09.chunk.css",
+    "static/js/2.a426caec.chunk.js": "/dashboardTemplate/static/js/2.a426caec.chunk.js",
+    "static/js/2.a426caec.chunk.js.map": "/dashboardTemplate/static/js/2.a426caec.chunk.js.map",
+    "index.html": "/dashboardTemplate/index.html",
+    "precache-manifest.75a4d33460f527fadcf4886a2757c3ee.js": "/dashboardTemplate/precache-manifest.75a4d33460f527fadcf4886a2757c3ee.js",
+    "service-worker.js": "/dashboardTemplate/service-worker.js",
+    "static/css/2.cac4bd09.chunk.css.map": "/dashboardTemplate/static/css/2.cac4bd09.chunk.css.map",
+    "static/css/main.01b61fb4.chunk.css.map": "/dashboardTemplate/static/css/main.01b61fb4.chunk.css.map",
+    "static/js/2.a426caec.chunk.js.LICENSE.txt": "/dashboardTemplate/static/js/2.a426caec.chunk.js.LICENSE.txt",
+    "static/media/AOI.zip": "/dashboardTemplate/static/media/AOI.c13fa089.zip",
+    "static/media/Flood.zip": "/dashboardTemplate/static/media/Flood.f4ccc24c.zip",
+    "static/media/Watersheds.zip": "/dashboardTemplate/static/media/Watersheds.f8041b03.zip"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ef6295.js",
+    "static/css/2.cac4bd09.chunk.css",
+    "static/js/2.a426caec.chunk.js",
+    "static/css/main.01b61fb4.chunk.css",
+    "static/js/main.a1a67e8f.chunk.js"
+  ]
+}
